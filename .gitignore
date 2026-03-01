@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+output Готовые файлы/
+Imgbb_output/
+.env
+.env.*
+~$*.xlsx
+
+# Keep folder structure, ignore heavy local photo content
+Avito_ST_2/*
+!Avito_ST_2/.gitkeep
